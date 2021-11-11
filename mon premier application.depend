@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636644599 source:c:\users\1337\desktop\nadia\mon premier application\main.c
+	<stdio.h>
+	<stdlib.h>
+
